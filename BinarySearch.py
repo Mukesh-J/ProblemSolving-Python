@@ -15,3 +15,4 @@ if __name__ == "__main__":
     arr = [1, 3, 5, 7, 9, 11]
     target = 7
     print(f"Index of {target} in the array: {binary_search(arr, target)}")
+    oombu
